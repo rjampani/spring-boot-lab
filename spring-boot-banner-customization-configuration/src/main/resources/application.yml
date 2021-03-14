@@ -1,0 +1,3 @@
+spring:
+  main:
+    banner-mode: console  banner:    location: classpath:custom-banner.txt#  banner:#    image:#      pixelmode: block#      location: classpath:custom-banner.jpg  output:    ansi:      enabled: always#  application:#    name: SampleSpringBootApplication
